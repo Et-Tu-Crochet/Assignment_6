@@ -16,7 +16,4 @@ In the supplied assignment folder you'll find an index, an images folder, and a 
 .right-picture
 
 Using the materials provided and what we discussed in class about divs, ids, and classes ( I didn't include spans because all the divs are specific to layout, and spans being inline didn't serve a purpose ) you will add the correct attributes to the correct tags, a mix of <img> and <div>.
-Example:
-<div class="left-picture"></div>
-<img id="hero-image">
 
